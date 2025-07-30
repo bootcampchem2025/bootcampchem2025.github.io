@@ -14,6 +14,14 @@ title: Welcome to Bootcamp for Data Chemistry
 
 We gratefully acknowledge the generous support of the ND SAI and C-CAS. Their commitment to fostering interdisciplinary collaboration and advancing data-driven chemistry has been instrumental in making this bootcamp possible, enabling us to bring together students, researchers, and industry partners for a productive week of learning and discovery.
 
+---
+
+**Please register in advance so we can reserve seating and meals.**
+
+- Complete the form here: <https://docs.google.com/forms/d/e/1FAIpQLSfAHFcDEPDEjY1IpZPpwB4V8pfsrCFDQcttrCqNGev_3imLEw/viewform?usp=preview>  
+- Registration deadline: **1 September 2025** (or until all places are filled)  
+
+We look forward to welcoming you to Notre Dame for a week of data-driven chemistry!
 
 ---
 
