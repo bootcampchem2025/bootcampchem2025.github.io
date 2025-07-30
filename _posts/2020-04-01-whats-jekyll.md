@@ -1,12 +1,59 @@
 ---
-layout: post
-title: What's Jekyll?
+layout: onepage          
+title: "Welcome to Bootcamp for Data Chemistry"
+date: 2025-09-22
 ---
 
-[Jekyll](https://jekyllrb.com) is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From [the project's readme](https://github.com/mojombo/jekyll/blob/master/README.markdown):
+## Overview
 
-  > Jekyll is a simple, blog aware, static site generator. It takes a template directory [...] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.
+**Dates:** September 22 – 26, 2025  
+**Location:** University of Notre Dame
 
-It's an immensely useful tool and one we encourage you to use here with Lanyon.
+---
 
-Find out more by [visiting the project on GitHub](https://github.com/mojombo/jekyll).
+## Funding
+
+We gratefully acknowledge the generous support of the ND SAI and C-CAS. Their commitment to fostering interdisciplinary collaboration and advancing data-driven chemistry has been instrumental in making this bootcamp possible, enabling us to bring together students, researchers, and industry partners for a productive week of learning and discovery.
+
+
+---
+
+## Invitees
+
+- 10 regional graduate students  
+- 5 external faculty (Jackson – UIUC; Zimmerman – U Mich; Ferguson – UC; Anstine – Mich State; Lindsey – Mich)  
+- Industry scientists (AbbVie, Dow, Lilly, 3M, P&G) – attend selected sessions  
+- ND faculty: Xiangliang, Meng, Olaf, Brett, Alex, Yamil, Theta, Nitesh, Ed M, Bill S, Steve C :contentReference[oaicite:12]{index=12}
+
+---
+
+## Agenda at a Glance
+
+### Sunday (Sep 21)
+
+- **18:00 – 20:00** – Welcome reception & registration; workshop overview; networking :contentReference[oaicite:13]{index=13}
+
+### Day 1 – Monday: Representing Chemistry to ML
+
+- Keynotes on molecular representations & GNNs  
+- **Tutorial:** RDKit fundamentals  
+- **Hands-on:** Building a molecular property-prediction pipeline :contentReference[oaicite:14]{index=14}
+
+### Day 2 – Tuesday: Design of Experiments & Active Learning
+
+- Talks on Bayesian optimisation & active learning  
+- **Tutorial:** scikit-learn for chemistry  
+- **Hands-on:** Active-learning pipeline; poster session :contentReference[oaicite:15]{index=15}
+
+### Day 3 – Wednesday: Machine-Learning Potentials
+
+- Talks on neural network potentials & coarse-graining  
+- **Tutorial:** ASE basics  
+- **Hands-on:** Deploying ML potentials as DFT surrogates :contentReference[oaicite:16]{index=16}
+
+### Day 4 – Thursday: AI Agents for Chemistry
+
+- Talks on LLMs for scientific discovery  
+- Panel: Future of AI in chemistry  
+- **Workshop:** Building an AI research assistant for chemistry :contentReference[oaicite:17]{index=17}
+
