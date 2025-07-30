@@ -1,6 +1,6 @@
 ---
 layout: onepage          
-title: "Welcome to Bootcamp for Data Chemistry"
+title: Welcome to Bootcamp for Data Chemistry
 date: 2025-09-22
 ---
 
