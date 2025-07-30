@@ -1,7 +1,7 @@
 ---
-layout: onepage          
+layout: post          
 title: Welcome to Bootcamp for Data Chemistry
-date: 2025-09-22
+
 ---
 
 ## Overview
