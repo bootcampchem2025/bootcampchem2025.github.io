@@ -18,7 +18,7 @@ We gratefully acknowledge the generous support of the ND SAI and C-CAS. Their co
 
 **Please register in advance so we can reserve seating and meals.**
 
-- Complete the form here: <https://docs.google.com/forms/d/e/1FAIpQLSfAHFcDEPDEjY1IpZPpwB4V8pfsrCFDQcttrCqNGev_3imLEw/viewform?usp=preview>  
+- Complete the form [here](https://docs.google.com/forms/d/e/1FAIpQLSfAHFcDEPDEjY1IpZPpwB4V8pfsrCFDQcttrCqNGev_3imLEw/viewform?usp=dialog) 
 - Registration deadline: **1 September 2025** (or until all places are filled)  
 
 We look forward to welcoming you to Notre Dame for a week of data-driven chemistry!
