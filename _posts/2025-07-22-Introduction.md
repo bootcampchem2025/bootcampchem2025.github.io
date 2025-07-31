@@ -64,6 +64,6 @@ We look forward to welcoming you to Notre Dame for a week of data-driven chemist
 
 ---
 
-## Funding
+## Acknowledgement
 
 We gratefully acknowledge the generous support of the [ND SAI](https://sai.nd.edu/) and [C-CAS](https://ccas.nd.edu/). Their commitment to fostering interdisciplinary collaboration and advancing data-driven chemistry has been instrumental in making this bootcamp possible, enabling us to bring together students, researchers, and industry partners for a productive week of learning and discovery.
