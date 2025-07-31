@@ -10,9 +10,8 @@ title: Welcome to Bootcamp for Data Chemistry
 
 ---
 
-## Funding
-
-We gratefully acknowledge the generous support of the ND SAI and C-CAS. Their commitment to fostering interdisciplinary collaboration and advancing data-driven chemistry has been instrumental in making this bootcamp possible, enabling us to bring together students, researchers, and industry partners for a productive week of learning and discovery.
+## Introduction
+In today’s research landscape, chemistry is evolving from a discipline driven mainly by experimental intuition to one powered by data-centric discovery. Advances in machine learning, high-throughput simulation, and automated lab instrumentation are generating vast datasets that can reveal patterns no human could spot unaided. Harnessing these data effectively—whether to predict molecular properties, design greener reactions, or accelerate materials discovery—demands a new skill set at the intersection of chemistry and artificial intelligence. Our Data-Chemistry Bootcamp is designed to equip chemistry students with exactly this toolkit: foundational AI concepts, hands-on coding experience, and domain-specific case studies that show how algorithms translate into real scientific breakthroughs. By bridging chemical insight with modern data methods, participants will be prepared to drive the next wave of innovation in both academia and industry.
 
 ---
 
@@ -30,7 +29,6 @@ We look forward to welcoming you to Notre Dame for a week of data-driven chemist
 - 10 regional graduate students  
 - 5 external faculty (Jackson – UIUC; Zimmerman – U Mich; Ferguson – UC; Anstine – Mich State; Lindsey – Mich)  
 - Industry scientists (AbbVie, Dow, Lilly, 3M, P&G) – attend selected sessions  
-- ND faculty: Xiangliang, Meng, Olaf, Brett, Alex, Yamil, Theta, Nitesh, Ed M, Bill S, Steve C 
 
 ---
 
@@ -44,23 +42,28 @@ We look forward to welcoming you to Notre Dame for a week of data-driven chemist
 
 - Keynotes on molecular representations & GNNs  
 - **Tutorial:** RDKit fundamentals  
-- **Hands-on:** Building a molecular property-prediction pipeline :contentReference
+- **Hands-on:** Building a molecular property-prediction pipeline 
 
 ### Day 2 – Tuesday: Design of Experiments & Active Learning
 
 - Talks on Bayesian optimisation & active learning  
 - **Tutorial:** scikit-learn for chemistry  
-- **Hands-on:** Active-learning pipeline; poster session :contentReference
+- **Hands-on:** Active-learning pipeline; poster session 
 
 ### Day 3 – Wednesday: Machine-Learning Potentials
 
 - Talks on neural network potentials & coarse-graining  
 - **Tutorial:** ASE basics  
-- **Hands-on:** Deploying ML potentials as DFT surrogates :contentReference
+- **Hands-on:** Deploying ML potentials as DFT surrogates 
 
 ### Day 4 – Thursday: AI Agents for Chemistry
 
 - Talks on LLMs for scientific discovery  
 - Panel: Future of AI in chemistry  
-- **Workshop:** Building an AI research assistant for chemistry :contentReference
+- **Workshop:** Building an AI research assistant for chemistry 
 
+---
+
+## Funding
+
+We gratefully acknowledge the generous support of the [ND SAI](https://sai.nd.edu/) and [C-CAS](https://ccas.nd.edu/). Their commitment to fostering interdisciplinary collaboration and advancing data-driven chemistry has been instrumental in making this bootcamp possible, enabling us to bring together students, researchers, and industry partners for a productive week of learning and discovery.
