@@ -30,7 +30,7 @@ We look forward to welcoming you to Notre Dame for a week of data-driven chemist
 - 10 regional graduate students  
 - 5 external faculty (Jackson – UIUC; Zimmerman – U Mich; Ferguson – UC; Anstine – Mich State; Lindsey – Mich)  
 - Industry scientists (AbbVie, Dow, Lilly, 3M, P&G) – attend selected sessions  
-- ND faculty: Xiangliang, Meng, Olaf, Brett, Alex, Yamil, Theta, Nitesh, Ed M, Bill S, Steve C :contentReference[oaicite:12]{index=12}
+- ND faculty: Xiangliang, Meng, Olaf, Brett, Alex, Yamil, Theta, Nitesh, Ed M, Bill S, Steve C 
 
 ---
 
@@ -38,29 +38,29 @@ We look forward to welcoming you to Notre Dame for a week of data-driven chemist
 
 ### Sunday (Sep 21)
 
-- **18:00 – 20:00** – Welcome reception & registration; workshop overview; networking :contentReference[oaicite:13]{index=13}
+- **18:00 – 20:00** – Welcome reception & registration; workshop overview; networking 
 
 ### Day 1 – Monday: Representing Chemistry to ML
 
 - Keynotes on molecular representations & GNNs  
 - **Tutorial:** RDKit fundamentals  
-- **Hands-on:** Building a molecular property-prediction pipeline :contentReference[oaicite:14]{index=14}
+- **Hands-on:** Building a molecular property-prediction pipeline :contentReference
 
 ### Day 2 – Tuesday: Design of Experiments & Active Learning
 
 - Talks on Bayesian optimisation & active learning  
 - **Tutorial:** scikit-learn for chemistry  
-- **Hands-on:** Active-learning pipeline; poster session :contentReference[oaicite:15]{index=15}
+- **Hands-on:** Active-learning pipeline; poster session :contentReference
 
 ### Day 3 – Wednesday: Machine-Learning Potentials
 
 - Talks on neural network potentials & coarse-graining  
 - **Tutorial:** ASE basics  
-- **Hands-on:** Deploying ML potentials as DFT surrogates :contentReference[oaicite:16]{index=16}
+- **Hands-on:** Deploying ML potentials as DFT surrogates :contentReference
 
 ### Day 4 – Thursday: AI Agents for Chemistry
 
 - Talks on LLMs for scientific discovery  
 - Panel: Future of AI in chemistry  
-- **Workshop:** Building an AI research assistant for chemistry :contentReference[oaicite:17]{index=17}
+- **Workshop:** Building an AI research assistant for chemistry :contentReference
 
