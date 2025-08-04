@@ -26,7 +26,6 @@ We look forward to welcoming you to Notre Dame for a week of data-driven chemist
 
 ## Invitees
 
-- 10 regional graduate students  
 - 5 external faculty (Jackson – UIUC; Zimmerman – U Mich; Ferguson – UC; Anstine – Mich State; Lindsey – Mich)  
 - Industry scientists (AbbVie, Dow, Lilly, 3M, P&G) – attend selected sessions  
 
