@@ -10,6 +10,8 @@ title: Welcome to Bootcamp for Data Chemistry
 
 ---
 
+<img src="https://github.com/bootcampchem2025/bootcampchem2025.github.io/blob/master/public/Bootcamp%20Graphic.png" alt="LOGO" width="400">
+
 ## Introduction
 In today’s research landscape, chemistry is evolving from a discipline driven mainly by experimental intuition to one powered by data-centric discovery. Advances in machine learning, high-throughput simulation, and automated lab instrumentation are generating vast datasets that can reveal patterns no human could spot unaided. Harnessing these data effectively—whether to predict molecular properties, design greener reactions, or accelerate materials discovery—demands a new skill set at the intersection of chemistry and artificial intelligence. Our Data-Chemistry Bootcamp is designed to equip chemistry students with exactly this toolkit: foundational AI concepts, hands-on coding experience, and domain-specific case studies that show how algorithms translate into real scientific breakthroughs. By bridging chemical insight with modern data methods, participants will be prepared to drive the next wave of innovation in both academia and industry.
 
