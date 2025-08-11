@@ -28,9 +28,9 @@ We look forward to welcoming you to Notre Dame for a week of data-driven chemist
 
 ---
 
-## Invitees
+## Invited Presentations
 
-- 5 external faculty (Jackson – UIUC; Zimmerman – U Mich; Ferguson – UC; Anstine – Mich State; Lindsey – Mich)  
+- 5 external faculty (Nicholas Jackson – UIUC; Paul Zimmerman – U Mich; Dylan Anstine – MSU; Eunjae Shim – U Mich; Pushkar Ghanekar - Eli Lilly)  
 - Industry scientists (AbbVie, Dow, Lilly, 3M, P&G) – attend selected sessions  
 
 ---
