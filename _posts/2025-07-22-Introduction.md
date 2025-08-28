@@ -5,7 +5,7 @@ title: Welcome to Bootcamp for Data Chemistry
 
 ## Overview
 
-**Dates:** September 22 – 26, 2025  
+**Dates:** September 21 – 25, 2025  
 **Location:** University of Notre Dame
 
 ---
