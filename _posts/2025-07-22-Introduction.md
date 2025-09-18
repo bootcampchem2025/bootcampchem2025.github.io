@@ -37,33 +37,159 @@ We look forward to welcoming you to Notre Dame for a week of data-driven chemist
 
 ## Agenda at a Glance
 
-### Sunday (Sep 21)
+### Sunday, Sept 21
+**18:00 – 20:00**  
+- Optional: Welcome Dinner and Registration  
+- Workshop overview and logistics  
+- Brief participant introductions  
+- Networking  
+*Location: Ivy Court Inn Dining Room*
 
-- **18:00 – 20:00** – Welcome reception & registration; workshop overview; networking 
+### Monday, Sept 22 – Representing Chemistry to ML Algorithms
+**08:30 – 09:30**  
+- Registration & Beverage Service  
 
-### Day 1 – Monday: Representing Chemistry to ML
+**09:30 – 10:30**  
+- Seminar 1: *Evolution of Molecular Representations: From SMILES to Graphs* (Olaf Wiest)  
 
-- Keynotes on molecular representations & GNNs  
-- **Tutorial:** RDKit fundamentals  
-- **Hands-on:** Building a molecular property-prediction pipeline 
+**10:30 – 11:00**  
+- Break  
 
-### Day 2 – Tuesday: Design of Experiments & Active Learning
+**11:00 – 12:00**  
+- Software Tutorial: *RDKit Fundamentals*  
+  - Loading and manipulating molecules  
+  - Computing molecular descriptors  
+  - Generating fingerprints  
+  - Substructure searching  
 
-- Talks on Bayesian optimisation & active learning  
-- **Tutorial:** scikit-learn for chemistry  
-- **Hands-on:** Active-learning pipeline; poster session 
+**12:00 – 13:00**  
+- Lunch & Networking  
 
-### Day 3 – Wednesday: Machine-Learning Potentials
+**13:00 – 14:00**  
+- Seminar 2: *Graph Neural Networks for Chemistry: Theory and Practice* (Xiangliang Zhang)  
 
-- Talks on neural network potentials & coarse-graining  
-- **Tutorial:** ASE basics  
-- **Hands-on:** Deploying ML potentials as DFT surrogates 
+**14:00 – 14:30**  
+- Break  
 
-### Day 4 – Thursday: AI Agents for Chemistry
+**14:30 – 16:00**  
+- Project Tutorial: *Data Scarce Molecular Property Prediction*  
+  - Data loading and splitting  
+  - Feature engineering with RDKit  
+  - Implementing prototypical networks  
+  - Model evaluation and interpretation  
 
-- Talks on LLMs for scientific discovery  
-- Panel: Future of AI in chemistry  
-- **Workshop:** Building an AI research assistant for chemistry 
+*Dinner on your own*
+
+### Tuesday, Sept 23 – Design of Experiments & Active Learning
+**08:30 – 09:30**  
+- Coffee & Conversation  
+
+**09:30 – 10:30**  
+- Seminar 1: *Active Learning for Efficient Chemical Space Exploration* (Paul Zimmerman)  
+
+**10:30 – 11:00**  
+- Break  
+
+**11:00 – 12:00**  
+- Software Tutorial: *scikit-learn for Chemistry*  
+  - Regression methods overview  
+  - Cross-validation strategies  
+  - Feature importance analysis  
+  - Gaussian processes basics  
+
+**12:00 – 13:00**  
+- Lunch  
+
+**13:00 – 14:00**  
+- Seminar 2: *LLMs and Chemistry* (Title TBD, Meng Jiang)  
+
+**14:00 – 14:30**  
+- Break  
+
+**14:30 – 16:00**  
+- Research Tutorial: *Building an Active Learning Pipeline for Reaction Optimization*  
+  - Setting up Ax/BoTorch for chemistry problems  
+  - Defining parameter spaces and constraints  
+  - Implementing acquisition functions  
+  - Integrating with experimental/computational workflows  
+  - Case study: optimizing catalytic reaction conditions  
+
+*Dinner on your own*
+
+
+### Wednesday, Sept 24 – Machine Learning Potentials
+**08:30 – 09:30**  
+- Coffee & Conversation  
+
+**09:30 – 10:30**  
+- Seminar 1: *Coarse-Graining and ML: Bridging Scales in Molecular Simulation* (Nick Jackson)  
+
+**10:30 – 11:00**  
+- Break  
+
+**11:00 – 12:00**  
+- Software Tutorial: *PyTorch*  
+  - Library overview  
+  - Building custom model architectures  
+  - Training demonstrations  
+  - Debugging in training scenarios  
+
+**12:00 – 13:00**  
+- Lunch  
+
+**13:00 – 14:00**  
+- Seminar 2: *Neural Network Potentials: Replacing Quantum Chemistry with ML* (Dylan Anstine)  
+
+**14:00 – 14:30**  
+- Break and Group Photo  
+
+**14:30 – 16:00**  
+- Research Tutorial: *Deploying ML Potentials as Quantum Chemistry Surrogates*  
+  - Installing and configuring MACE/NequIP/Orb/AIMnet/UAM  
+  - Training a potential on custom data  
+  - Running MD simulations with ML potentials  
+  - Comparing accuracy/speed with DFT  
+  - Case study: reaction pathway optimization  
+
+*Dinner on your own*
+
+
+### Thursday, Sept 25 – AI Agents for Chemistry
+**08:30 – 09:30**  
+- Coffee & Conversation  
+
+**09:30 – 10:30**  
+- Seminar 1: *Title TBD* (Pushkar Ghanekar)  
+
+**10:30 – 11:00**  
+- Break  
+
+**11:00 – 12:00**  
+- Software Tutorial: *PyTorch Geometric Deep Dive*  
+  - Building custom GNN architectures  
+  - Message passing frameworks  
+  - Attention mechanisms for molecules  
+  - Integration with molecular datasets  
+
+**12:00 – 13:00**  
+- Lunch  
+
+**13:00 – 14:00**  
+- Seminar 2: *Title TBD* (Margaret Hilton)  
+
+**14:00 – 14:30**  
+- Break  
+
+**14:30 – 16:00**  
+- Research Tutorial: *Creating an AI Research Assistant for Chemistry*  
+  - Using LLM APIs for chemical reasoning  
+  - Building a retrieval-augmented generation (RAG) system  
+  - Integrating PubChem/ChEMBL queries  
+  - Automated report generation  
+  - Demo: Literature review automation  
+
+**16:00**  
+- Closing Remarks  
 
 ---
 
